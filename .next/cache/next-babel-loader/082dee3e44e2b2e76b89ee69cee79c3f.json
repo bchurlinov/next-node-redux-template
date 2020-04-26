@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const FOO = \"FOO\";","map":{"version":3,"sources":["E:/pratice-projects/next-js-redux/redux/types.js"],"names":["FOO"],"mappings":"AAAA,OAAO,MAAMA,GAAG,GAAG,KAAZ","sourcesContent":["export const FOO = \"FOO\";"]},"metadata":{},"sourceType":"module"}
